@@ -1,4 +1,4 @@
-[![MasterHead](https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk5Mzg3NzgsIm5iZiI6MTcwOTkzODQ3OCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzA4VDIyNTQzOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE4ZmQwNGU3ODI3MTRmMzg3MmU2YzNmYTE5MjIyMjVlOWRiNWZmOTNlNGYwYzI1Nzk4MmRiMWQzMWQ1MmFlYmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.j-d21V3MaqtQL_0td1tALq5wcqN-LV7VIdEOHh2noNk)]
+![MasterHead](https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk5Mzg3NzgsIm5iZiI6MTcwOTkzODQ3OCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzA4VDIyNTQzOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE4ZmQwNGU3ODI3MTRmMzg3MmU2YzNmYTE5MjIyMjVlOWRiNWZmOTNlNGYwYzI1Nzk4MmRiMWQzMWQ1MmFlYmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.j-d21V3MaqtQL_0td1tALq5wcqN-LV7VIdEOHh2noNk)
 <h1 align="center">Hello, I'm Bart3kTK</h1>
 <h3 align="center">This is a very rare profile (none of the others start with "B" and end with "art3kTK")</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/nPJiULZnc-8AAAAi/github-sticker.gif">
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ESP-IDF**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Bart3kTK](https://github.com/Bart3kTK)
+- 👨‍💻 All of my projects are available here
 
 - 📫 How to reach me **bkamieniarz55@wp.pl**
 
